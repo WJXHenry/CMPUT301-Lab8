@@ -28,6 +28,6 @@ public class Actions {
      * @return The product of the two numbers
      */
     public static float Multiply(float num1, float num2) {
-        return 0;
+        return num1 * num2;
     }
 }
