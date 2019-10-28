@@ -20,4 +20,14 @@ public class Actions {
     public static float Subtract(float num1, float num2) {
         return num1 - num2;
     }
+    
+    /**
+     * Multiplies two numbers together
+     * @param num1 The first number to multiply by
+     * @param num2 The second number to multiply by
+     * @return The product of the two numbers
+     */
+    public static float Multiply(float num1, float num2) {
+        return 0;
+    }
 }
