@@ -15,8 +15,8 @@ public class ActionsTest {
         assertEquals(-1, Actions.Subtract(1, 2), 0.1);
     }
 
-    @Test
-    public void testMultiply() {
-        assertEquals(8, Actions.Multiply(4, 2), 0.1);
-    }
+//    @Test
+//    public void testMultiply() {
+//        assertEquals(8, Actions.Multiply(4, 2), 0.1);
+//    }
 }
